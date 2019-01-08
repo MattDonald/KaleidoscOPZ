@@ -2,7 +2,7 @@
 
 A simple Kaleidoscope patch made in Unity, with Teenage Engineering's VideoLab for the [OP-Z](https://teenage.engineering/products/op-z).
 
-This is a test project for leanring Unity & [Video Lab](https://github.com/teenageengineering/videolab/) given here for possible collaboration & fun. This test has been based largely on the VideoLab Test Pak created by [Keijiro](https://github.com/keijiro/VideolabTest).
+This is a test project for leanring Unity & [Video Lab](https://github.com/teenageengineering/videolab/) given here for possible collaboration & fun. This test has been based hugely on the 'Primative' VideoLab Test Pak created by [Keijiro](https://github.com/keijiro/VideolabTest) & thus is not shared as a original but simply an exploration / extention.
 
 You can grab the exported VideoPak [here](https://github.com/DesignedByM/KaleidoscOPZ/tree/master/kaleidoscopz).
 
