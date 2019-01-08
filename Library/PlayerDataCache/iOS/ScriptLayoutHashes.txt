@@ -1,0 +1,32 @@
+iOS
+PlayerPath?
+/Users/mattdonald/Documents/Teenage Engineering/Unity/KaleidoscOPZ/kaleidoscopz/iOS/kaleidoscopz
+SceneListBegin?
+Assets/KaleidoscOPZ.unity
+SceneListEnd?
+06d75f5073a437ec51e95fdab91b9f77 Assembly-CSharp.dll:Klak.Wiring.BoolOut
+6df44f812949325f3031341c8e161b31 Assembly-CSharp.dll:Klak.Wiring.MaterialFloatOut
+aa96580535f02cfb1d812c09c7005e71 Assembly-CSharp.dll:Videolab.PhotomaticEffect
+8ec38380aa75199340475edbb70f2c3d Assembly-CSharp.dll:Klak.Wiring.KeyInput
+b8e2ed6d779a434d1df7adfe27e22987 Assembly-CSharp.dll:Kino.DigitalGlitch
+b10f0f008d787b95a5928eed8ceaa36e Assembly-CSharp.dll:Kino.Bloom
+06d75f5073a437ec51e95fdab91b9f77 Assembly-CSharp.dll:Klak.Wiring.IntOut
+06d75f5073a437ec51e95fdab91b9f77 Assembly-CSharp.dll:Klak.Wiring.ColorOut
+668e8c823fe8eb34bcd3d4d94b055eb6 Assembly-CSharp.dll:Klak.Wiring.Patch
+778e2f20b1bf5d67a3e8273c46f75100 Assembly-CSharp.dll:Klak.Wiring.FloatAnimation
+efa27fcf2c91a63a15d52999df9f45f6 Assembly-CSharp.dll:Videolab.Degrade
+06d75f5073a437ec51e95fdab91b9f77 Assembly-CSharp.dll:Klak.Wiring.FloatOut
+44248daa489e9ff93c6e0740fbbaefcd Assembly-CSharp.dll:Klak.Wiring.TransformOut
+9e5e0b837350a45264b0dfc5c9b844f2 Assembly-CSharp.dll:Klak.Midi.NoteInput
+90fad5199e9873929538b982909b169b Assembly-CSharp.dll:Kvant.Stream
+32db9ec05a4da8b5e8a24050f03a4665 Assembly-CSharp.dll:Klak.Wiring.ColorRamp
+23a013b7a5ba4f12eb3aa45bd3de1132 Assembly-CSharp.dll:Klak.Wiring.HSBColor
+e6fb7f7c9cd034e7bbbadc5283f61ef2 Assembly-CSharp.dll:Klak.Wiring.RandomValue
+fb7c39b63dce47fb560b1af1f647edec Assembly-CSharp.dll:Klak.Midi.KnobInput
+b6655facfc69c02c069a450634e7e800 Assembly-CSharp.dll:Kino.Tube
+d7f64135d5248fe3fbce4c41ae79134a Assembly-CSharp.dll:Klak.Wiring.AxisRotation
+c00f3d76054a3a98ddcc43fc3f69a47d Assembly-CSharp.dll:Klak.Wiring.FloatFilter
+8527fae658bbb1e9599a87cbc448a8c9 Assembly-CSharp.dll:Videolab.Halftone
+6df44f812949325f3031341c8e161b31 Assembly-CSharp.dll:Klak.Wiring.MaterialColorOut
+00de8b23268eebd4e9bca29080c0fd8f Assembly-CSharp.dll:Kino.AnalogGlitch
+9e726289e9f90a8d75cd686eed4a1c48 Assembly-CSharp.dll:Kino.Mirror
