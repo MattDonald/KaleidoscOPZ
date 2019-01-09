@@ -11,8 +11,8 @@ You can grab the exported VideoPak [here](https://github.com/DesignedByM/Kaleido
 ## Controls
 Below is a brief explanation of all the controls available once on the OP-Z app & using the Motion track.
 
-### <1> - <0> (Black Keys)
-Selects the amount of mirrors in the Kaleiscope. 
+### Black Keys
+The number refelects the amount of mirrors in the Kaleiscope. 
 
 ### White Keys
 *The first octave are all latching*
