@@ -1,6 +1,6 @@
 iOS
 PlayerPath?
-/Users/mattdonald/Documents/Teenage Engineering/Unity/KaleidoscOPZ/kaleidoscopz/iOS/kaleidoscopz
+/Users/mattdonald/Documents/GitHub/KaleidoscOPZ/kaleidoscopz/iOS/kaleidoscopz
 SceneListBegin?
 Assets/KaleidoscOPZ.unity
 SceneListEnd?

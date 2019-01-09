@@ -1,6 +1,6 @@
 OSXUniversal
 PlayerPath?
-/Users/mattdonald/Documents/Teenage Engineering/Unity/KaleidoscOPZ/kaleidoscopz/OSX/kaleidoscopz
+/Users/mattdonald/Documents/GitHub/KaleidoscOPZ/kaleidoscopz/OSX/kaleidoscopz
 SceneListBegin?
 Assets/KaleidoscOPZ.unity
 SceneListEnd?
