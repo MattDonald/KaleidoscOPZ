@@ -8,7 +8,7 @@ You can grab the exported VideoPak [here](https://github.com/DesignedByM/Kaleido
 
 **_Please note, this is using the Video Lab 1.3 release & thus you need to be member of the OP-Z Beta Test to have the test App. It will not work on the public release._**
 
-[!(https://i.vimeocdn.com/video/751452293_1280x720.jpg)]
+[![VIDEO THUMBNAIL](https://i.vimeocdn.com/video/751452293_1280x720.jpg)](https://vimeo.com/310785386)
 
 ## Controls
 Below is a brief explanation of all the controls available once on the OP-Z app & using the Motion track.
