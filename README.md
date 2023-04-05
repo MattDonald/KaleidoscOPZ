@@ -8,7 +8,7 @@ You can grab the exported VideoPak [here](https://github.com/DesignedByM/Kaleido
 
 **_Please note, this is using the Video Lab 1.3 release & thus you need to be member of the OP-Z Beta Test to have the test App. It will not work on the public release._**
 
-[![VIDEO THUMBNAIL](https://i.vimeocdn.com/video/751452293_1280x720.jpg)](https://vimeo.com/310785386)
+[![VIDEO THUMBNAIL](https://vumbnail.com/310785386.jpg)](https://vimeo.com/310785386)
 [Demo on Vimeo](https://vimeo.com/310785386)
 
 ## Controls
